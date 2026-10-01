@@ -12,4 +12,4 @@ The paper will appear at the 2027 IEEE Symposium on Security and Privacy (S&P).
 
 ## Repository Contents
 
-- `extended_table.pdf` – Full classification table of the CBDC designs analyzed in the paper
+- [`extended_table.pdf`](extended_table.pdf) – Full classification table of the CBDC designs analysed in the paper
